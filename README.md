@@ -34,15 +34,4 @@ This app helps Alex find books they are interested in by searching book titles.
 ```bash
 npm install
 npm start
-
-## 🙌 Acknowledgments
-
-This project is developed by *Moufia Justin* as part of a take-home coding challenge.  
-It uses *open-source libraries and public APIs* including:
-
-- React (UI Framework)
-- Open Library API for book data
-- CSS for styling
-
-Special thanks to open-source contributors for resources and tools that make projects like this possible! 🌟
 ---
