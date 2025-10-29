@@ -1,7 +1,5 @@
 # Book_Finder
 Created with CodeSandbox
-# Book Finder 📚
-
 A simple book search web application built using React and the Open Library API.
 
 ## 👤 User Persona
